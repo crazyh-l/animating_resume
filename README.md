@@ -1,21 +1,17 @@
-# lift-project
+# 一个会动的简历模板
 
-> I dream my painting,and then i paint my dream
+> This is my resume
 
-## Build Setup
+[预览](https://97413192.github.io/animating_show/index.html)
+
+## 使用方法
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+1.git clone git@github.com:jirengu-inc/animating_resume.git
+2.cd animating-resume
+3. 安装 prism.js  npm install prismjs 
+4.安装解析markdown 的库，npm install --save marked
+5.npm install
+6.npm run dev
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

@@ -2,7 +2,7 @@
 
 > This is my resume
 
-[预览](https://97413192.github.io/animating_show/index.html)
+[预览](https://97413192.github.io/animating_show)
 
 ## 使用方法
 

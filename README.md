@@ -7,7 +7,7 @@
 ## 使用方法
 
 ``` bash
-1.git clone git@github.com:jirengu-inc/animating_resume.git
+1.git clone https://github.com/crazyh-l/animating_resume.git
 2.cd animating-resume
 3. 安装 prism.js  npm install prismjs 
 4.安装解析markdown 的库，npm install --save marked
